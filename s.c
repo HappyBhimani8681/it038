@@ -7,6 +7,12 @@ float price;
 }
 int main()
 {
+ 
+ stuct product p[5];
+int i,search;
+for(i=0;i<5;i++)
+{
+printf("e");
  stuct product p[5];
 int i,search;
 for(i=0;i<5;i++)
